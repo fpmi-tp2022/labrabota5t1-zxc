@@ -4,11 +4,11 @@
 
 # Project name:
 
-Application for Parfume Market - ParfumeManager
+Application for Perfume Market - PerfumeManager
 
 # Description:
 
-Console application designed to work with databases of Parfume Market. 
+Console application designed to work with databases of Perfume Market. 
 
 Contains maclers info, info of deals and goods for sale.
 
