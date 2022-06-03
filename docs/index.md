@@ -7,7 +7,7 @@ some text<br>
 
 ### External Useful Links:
 GitHub wiki links:<br>
-[Specification](https://github.com/fpmi-tp2022/labrabota5t1-zxc/blob/master/docs/func.md)<br>
+[Specification](https://fpmi-tp2022.github.io/labrabota5t1-zxc/func)<br>
 [Files Info](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Application-Files)<br>
 [Data Base](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/DataBase-Sceme)<br>
 [Diagramm&Scenarion](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Functional-Preferences)<br>
