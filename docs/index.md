@@ -2,50 +2,50 @@
 
 # MAIN PAGE
 
-# Short Summary
+### Short Summary
 
 some text
 
-# External Useful Links:
+### External Useful Links:
 
 some links
 
 # FUNCTIONAL REQUIREMENTS
 
-# Description
+### Description
 
 aaa
 
-# Use-Case Diagramm
+### Use-Case Diagramm
 
 diagramm
 
-# Scenarios
+### Scenarios
 
 some scenarios
 
 # FILES DIAGRAMM
 
-# Diagramm
+### Diagramm
 
 diagramm
 
-# Description
+### Description
 
 some text
 
 # ADDITIONAL SPECIFICATION
 
-# DATA BASE SCEME
+### DATA BASE SCEME
 
-# Sceme
+### Sceme
 
-# SQL-file link
+### SQL-file link
 
 link
 
 # PRESENTATION
 
-# Link
+### Link
 
 some link
