@@ -15,7 +15,7 @@ This app can be used in real life companies; it gives all the required functiona
 Some screenshots:<br>
 # Contributing:
 Huge regards to our Developers Team!<br>
-Krazhevskiy Aleksey - working with git (documantation) and SQLite - desing and export database;<br>
-Bokiy Vladimir - application developer;<br>
-Goncharenko Andrey - software engineer;<br>
-Sergienko Ilya - Teamlead and testing the application.<br>
+[Krazhevskiy Aleksey](https://github.com/alekseykrazhev) - working with git (documantation) and SQLite - desing and export database;<br>
+[Bokiy Vladimir](https://github.com/VladimirBokiy) - application developer;<br>
+[Goncharenko Andrey](https://github.com/andrey1pf) - software engineer;<br>
+[Serhiyenka Ilya](https://github.com/P1l1gr1m) - Teamlead and testing the application.<br>
