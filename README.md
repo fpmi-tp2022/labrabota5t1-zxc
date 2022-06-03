@@ -1,7 +1,6 @@
 # LAB 5 by zxc team!
 
-![png-transparent-coco-mademoiselle-chanel-perfume-eau-de-toilette-chanel-cosmetics-perfume-chanel](https://user-images.githubusercontent.com/78850311/171938491-af9f0d76-21b4-4a85-96cf-e653e5256c4f.png)
-
+![9d69e854ee7c31de6a40b0a4a1c703d2](https://user-images.githubusercontent.com/78850311/171938728-3683b4ca-43ff-4e81-b7c1-12839f07c708.jpg)
   
 # Project name:
 
