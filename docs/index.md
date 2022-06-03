@@ -50,4 +50,5 @@ SQL-file stored in Google Drive: [link](https://drive.google.com/file/d/1JJQ1Abm
 some link<br>
 
 # LINKS TO REPS
-[alex link](https://github.com/alekseykrazhev/github-pages-with-jekyll)<br>
+[Alex link](https://github.com/alekseykrazhev/github-pages-with-jekyll)<br>
+[Ilya link](https://github.com/P1l1gr1m/github-pages-with-jekyll)<br>
