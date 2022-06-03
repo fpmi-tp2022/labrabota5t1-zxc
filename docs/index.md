@@ -13,17 +13,6 @@ GitHub wiki links:<br>
 [Diagramm&Scenarion](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Functional-Preferences)<br>
 [Presentation](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Project-Presentation)<br>
 
-# FUNCTIONAL REQUIREMENTS
-
-### Description
-aaa<br>
-
-### Use-Case Diagramm
-diagramm<br>
-
-### Scenarios
-some scenarios<br>
-
 # FILES DIAGRAMM
 
 ### Diagramm
