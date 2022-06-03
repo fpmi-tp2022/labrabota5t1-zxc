@@ -8,7 +8,17 @@ some text
 
 ### External Useful Links:
 
-some links
+GitHub wiki links:<br>
+[Specification](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Additional-Specification)
+
+[Files Info](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Application-Files)
+
+[Data Base](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/DataBase-Sceme)
+
+[Diagramm&Scenarion](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Functional-Preferences)
+
+[Presentation](https://github.com/fpmi-tp2022/labrabota5t1-zxc/wiki/Project-Presentation)
+
 
 # FUNCTIONAL REQUIREMENTS
 
