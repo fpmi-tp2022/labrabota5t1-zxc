@@ -40,9 +40,11 @@ some text
 
 ### Sceme
 
+
+
 ### SQL-file link
 
-link
+SQL-file stored in Google Drive: https://drive.google.com/file/d/1JJQ1AbmioY6lVxIbXAnSFGl4Y1sBX4Fj/view?usp=sharing
 
 # PRESENTATION
 
