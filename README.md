@@ -22,6 +22,6 @@ Some screenshots:<br>
 
 Huge regards to our Developers Team!<br>
 Krazhevskiy Aleksey - working with git (documantation) and SQLite - desing and export database;<br>
-Bokiy Vladivir - application developer;<br>
+Bokiy Vladimir - application developer;<br>
 Goncharenko Andrey - software engineer;<br>
 Sergienko Ilya - Teamlead and testing the application.<br>
