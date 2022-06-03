@@ -1,5 +1,7 @@
 # GitHub Pages for Perfume Market Manager project by zxc team!
 
-# Main Page
+# Short Summary
 
 some text
+
+# External Useful Links:
