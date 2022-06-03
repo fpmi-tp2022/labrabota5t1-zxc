@@ -1,9 +1,8 @@
 # LAB 5 by zxc team!
-![images-removebg-preview](https://user-images.githubusercontent.com/78850311/171941204-bb8f0e27-998c-4908-bb04-e4c33b6e329f.png)<br>
 ![photo_2022-06-04_02-15-02-removebg-preview](https://user-images.githubusercontent.com/78850311/171965770-9718c15f-33ec-4a47-8613-c118818a3dc7.png)<br>
-
 # Project name:
 Application for Perfume Market - PerfumeManager<br>
+![images-removebg-preview](https://user-images.githubusercontent.com/78850311/171941204-bb8f0e27-998c-4908-bb04-e4c33b6e329f.png)<br>
 # Description:
 Console application designed to work with databases of Perfume Market.<br>
 Contains maclers info, info of deals and goods for sale.<br>
