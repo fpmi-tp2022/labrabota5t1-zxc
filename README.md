@@ -1,6 +1,7 @@
 # LAB 5 by zxc team!
 
-![126-1269881_vintage-perfume-png-photo-vintage-poison-bottle-drawing](https://user-images.githubusercontent.com/78850311/171940734-398fb877-6bf7-447a-95ee-0f078bb72699.png)
+![images-removebg-preview](https://user-images.githubusercontent.com/78850311/171941204-bb8f0e27-998c-4908-bb04-e4c33b6e329f.png)
+
 
 # Project name:
 
