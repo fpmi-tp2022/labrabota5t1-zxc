@@ -18,5 +18,5 @@
 Описание: на указанную дату выводит всю информацию о совершенных сделках(*).<br>
 ### Use-Case Diagramm
 diagramm<br>
-### Scenarios
+### Scenaries
 some scenarios<br>
