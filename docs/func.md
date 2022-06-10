@@ -1,2 +1,0 @@
-# ADDITIONAL SPECIFICATION
-smth<br>
