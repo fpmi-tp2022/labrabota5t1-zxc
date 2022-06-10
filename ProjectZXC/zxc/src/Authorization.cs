@@ -18,8 +18,8 @@ namespace zxc
         public static bool AuthorizationStart()
         {
             Console.WriteLine("0 - Exit");
-            Console.WriteLine("1 - Sing In");
-            Console.WriteLine("2 - Sign Out");
+            Console.WriteLine("1 - Sign In");
+            Console.WriteLine("2 - Sign Up");
 
             bool check = false;
             while(check == false)
