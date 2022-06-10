@@ -17,6 +17,6 @@
 #### 6.Создать функцию<br>
 Описание: на указанную дату выводит всю информацию о совершенных сделках(*).<br>
 ### Use-Case Diagramm
-![image_2022-06-09_22-06-57](https://user-images.githubusercontent.com/78850311/172925846-05b39f3c-1523-48f3-b36d-a1c56fbf5e25.png)<br>
+![image_2022-06-10_13-33-09](https://user-images.githubusercontent.com/78850311/173048438-43ab09ff-c6dc-4528-a82c-40d166e3e100.png)<br>
 ### Scenaries
 some scenarios<br>
