@@ -1,0 +1,13 @@
+title: Perfume Market!
+author: zxc best prog
+email: zxcforever@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  GitHub Pages website for Perfume Market Manager application. 
+  We implemented the best method for working with databases and provide user of this app with
+  the best Usage Experience! Just try our PerfumeManager for the first time - and you'll realize all the facilities it provides. For sale - lifetime 
+  subscription only for 99.99$ - hurry up and get it!
+# social links
+github_username:  zxc-team # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: jekyll-theme-hacker
